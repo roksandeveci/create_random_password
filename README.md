@@ -7,11 +7,9 @@ It allows you to create password and you can choose digit numbers and character 
 Clone this repository:  
 <pre> ```  git clone https://github.com/roksandeveci/create_random_password  ``` </pre>
 Navigate into the project folder:  
-```bash  
-cd create_random_password  ```
+<pre>``` cd create_random_password  ``` </pre>
 Run the program  
-```bash  
-python app.py  ```
+<pre> ```python app.py  ``` </pre>
 ## Usage  
 For create random password firstly select content,  
 1.Only numbers  
