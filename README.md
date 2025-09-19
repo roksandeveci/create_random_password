@@ -5,8 +5,7 @@ This program is written in python language.
 It allows you to create password and you can choose digit numbers and character content.  
 ## How to Run
 Clone this repository:  
-```bash  
-git clone https://github.com/roksandeveci/create_random_password  ```
+<pre> ```  git clone https://github.com/roksandeveci/create_random_password  ``` </pre>
 Navigate into the project folder:  
 ```bash  
 cd create_random_password  ```
